@@ -6,13 +6,7 @@ A simple and clean to-do list web app built with modern web technologies. Easily
 
 - ❌ Delete tasks
 
-- 🕹️ Mark tasks as complete/incomplete
-
-- 🧹 Clear completed tasks
-
-- 🌙 Light/Dark mode toggle (if applicable)
-
-- 💾 Local storage support (if applicable)
+- 💾 Local storage support
 
 ## 🛠️ Built With
 - React, CSS, Tailwind CSS
