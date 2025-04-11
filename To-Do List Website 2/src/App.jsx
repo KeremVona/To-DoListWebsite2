@@ -84,10 +84,7 @@ function App() {
          <button onClick={handleClick} className='basis-32 bg-amber-300 text-xl'>Add</button>    
        </div>
        <hr className='mb-2' />
-
-       <div className='to-dos flex justify-center'>
            <ToDos toDos={toDos} onEdit={handleOnEdit} onDelete={handleOnDelete} editInput={editInput} editId={editingToDoId} onSave={handleSave} handleChange2={handleChange2} />
-       </div>
       </div>
     </>
   )
