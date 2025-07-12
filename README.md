@@ -14,8 +14,6 @@ A simple and clean to-do list web app built with modern web technologies. Easily
 ## 📦 Installation
 ```
 bash
-Copy
-Edit
 # Clone the repository
 git clone https://github.com/KeremVona/todo-list-website-2.git
 
